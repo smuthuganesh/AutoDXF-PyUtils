@@ -272,6 +272,6 @@ if __name__ == "__main__":
     #   process_path("path/to/folder", "path/to/file1.dxf")
 
     #path = "/Users/smg/Documents/Programming/Code/python/sampledxf/others/"
-    path = "/Users/smg/Documents/Programming/Code/python/sampledxf/others/now4.dxf"
+    path = "/Users/smg/Documents/Programming/Code/python/sampledxf/others/now4_out.dxf"
 
     process_path(path)
